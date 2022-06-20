@@ -12,6 +12,7 @@ void main() {
       theme: lightTheme(),
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
+      //
     ),
   );
 }
