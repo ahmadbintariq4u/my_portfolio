@@ -17,7 +17,7 @@ class HomeView extends GetView<HomeController> {
             const Spacer(),
             ElevatedButton(
               onPressed: () {},
-              child: const Text('About'),
+              child: const Text('About US'),
             ),
             ElevatedButton(onPressed: () {}, child: const Text('Portfolio')),
             ElevatedButton(onPressed: () {}, child: const Text('Contact')),
